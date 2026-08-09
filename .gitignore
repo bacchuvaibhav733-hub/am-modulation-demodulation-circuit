@@ -1,0 +1,9 @@
+# LTSpice Simulation Outputs
+*.raw
+*.op.raw
+*.log
+*.net
+
+# OS
+.DS_Store
+Thumbs.db
