@@ -136,5 +136,5 @@ am-modulation-demodulation-circuit/
 B.Tech Student, Electronics and Communication Engineering  
 National Institute of Technology, Warangal (NITW)  
 * Email: [bv24ecb0a08@student.nitw.ac.in](mailto:bv24ecb0a08@student.nitw.ac.in)
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* GitHub: [github.com/bacchuvaibhav733-hub](https://github.com/bacchuvaibhav733-hub)
+* LinkedIn: [linkedin.com/in/bacchuvaibhav733-hub](https://linkedin.com/in/bacchuvaibhav733-hub)
